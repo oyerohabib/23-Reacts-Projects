@@ -1,5 +1,5 @@
 {
-  "name": "reminder",
+  "name": "React Material-UI Sample",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,8 +20,6 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
     "react-vis": "^1.11.7",
-    "recharts": "^2.1.0",
-    "values.js": "^2.0.0"
   },
   "scripts": {
     "start": "craco start",
